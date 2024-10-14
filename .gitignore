@@ -1,0 +1,4 @@
+wordpress/
+modules/paid/
+cache/
+.htaccess
